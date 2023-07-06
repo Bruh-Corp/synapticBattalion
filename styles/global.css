@@ -1,0 +1,58 @@
+@font-face {
+    font-family: 'Mona Sans';
+    src:
+      url('../media/Mona Sans/Mona-Sans.woff2') format('woff2 supports variations'),
+      url('../media/Mona Sans/Mona-Sans.woff2') format('woff2-variations');
+    font-weight: 200 900;
+    font-stretch: 75% 125%;
+}
+  
+  html {
+    font-family: 'Mona Sans';
+}
+
+body {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    color: white;
+    text-shadow: black .001em .001em .07em;
+    font-weight: 900;
+    font-stretch: 105%;
+    -webkit-text-stroke: .0007em black;
+    font-size: calc(2.5em + 3vw);
+    text-align: center;
+}
+
+.navbar {
+    width: 100%;
+}
+
+.logo {
+    width: fit-content;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.logo h1 {
+    color: white;
+    font-size: calc(3.2em * 0.6);
+    line-height: 75%;
+    text-shadow: black .001em .001em .07em;
+    font-weight: 900;
+    font-stretch: 105%;
+    margin: 0;
+    -webkit-text-stroke: .0007em black;
+}
+
+.logo img {
+    width: calc(15em * 0.6);
+    border-radius: .5em;
+    margin-bottom: calc(-4.6em * 0.6);
+}
