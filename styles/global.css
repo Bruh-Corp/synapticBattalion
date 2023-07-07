@@ -23,7 +23,6 @@ h1 {
     text-shadow: black .001em .001em .07em;
     font-weight: 900;
     font-stretch: 105%;
-    -webkit-text-stroke: .0007em black;
     font-size: calc(2.5em + 3vw);
     text-align: center;
 }
