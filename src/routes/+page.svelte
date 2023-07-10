@@ -1,5 +1,4 @@
 
-
 <script>
     import '../fonts.css'
     import '../styles.css'
@@ -24,7 +23,7 @@
 
 <p>Enter your name to be greeted</p>
 
-<input bind:value={name} placeholder="enter your name" />
+<input bind:value={name} />
 
 <p>Hi there {name || 'stranger'}.</p>
 
