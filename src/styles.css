@@ -1,0 +1,39 @@
+
+body {
+    background-color: black;
+}
+
+p {
+    color: white;
+    font-family: 'Mona Sans';
+    text-shadow: black .001em .001em .07em;
+    font-weight: 300;
+    font-stretch: 95%;
+}
+
+h1 {
+    font-family: 'Mona Sans';
+    color: white;
+    text-shadow: black .001em .001em .07em;
+    font-weight: 900;
+    font-stretch: 105%;
+    font-size: 3em;
+    text-align: center;    
+}
+
+h2 {
+    font-family: 'Mona Sans';
+    text-shadow: black .001em .001em .07em;
+    font-weight: 500;
+    font-stretch: 75;
+    color: white;
+}
+
+img {
+    width: 9em;
+}
+
+input {
+    background-color: black;
+    border: .01em white solid;
+}
