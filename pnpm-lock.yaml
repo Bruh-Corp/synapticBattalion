@@ -27,7 +27,7 @@ devDependencies:
     specifier: ^2.30.0
     version: 2.32.2(eslint@8.44.0)(svelte@4.0.5)
   gh-pages:
-    specifier: ^3.0.0
+    specifier: ^3.2.3
     version: 3.2.3
   prettier:
     specifier: ^2.8.0
