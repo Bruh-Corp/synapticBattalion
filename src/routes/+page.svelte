@@ -1,11 +1,69 @@
 
 <script>
-// @ts-nocheck
-
     import '../fonts.css'
     import '../styles.css'
     import '../homepage.css'
+    import { onMount } from 'svelte';
+
+let time = new Date();
+
+// these automatically update when `time`
+// changes, because of the `$:` prefix
+$: hours = time.getHours();
+$: minutes = time.getMinutes();
+$: seconds = time.getSeconds();
+
+onMount(() => {
+    const interval = setInterval(() => {
+        time = new Date();
+    }, 1000);
+
+    return () => {
+        clearInterval(interval);
+    };
+});
 </script>
+
+<style>
+	svg {
+		width: 20%;
+		height: 20%;
+	}
+
+	.clock-face {
+		stroke: white;
+		fill: none;
+	}
+
+	.minor {
+		stroke: white;
+		stroke-width: 0.5;
+	}
+
+	.major {
+		stroke: white;
+		stroke-width: 1;
+	}
+
+	.hour {
+		stroke: white;
+	}
+
+	.minute {
+		stroke: white;
+	}
+
+	.second,
+	.second-counterweight {
+		stroke: darkmagenta;
+	}
+
+	.second-counterweight {
+		stroke-width: 2;
+	}
+</style>
+
+
 <div class="navbar">
     <img src="/images/sb.png" alt="Hi there">
     <a href="/"><h3>About Us</h3></a>
@@ -26,23 +84,33 @@
         <a href="/"><p>ww3</p></a>
     </div>
     
-<div class="clock">
-    <div class="hand hour" data-hour-hand></div>
-    <div class="hand minute" data-minute-hand></div>
-    <div class="hand second" data-second-hand></div>
-    <div class="number number1">1</div>
-    <div class="number number2">2</div>
-    <div class="number number3">3</div>
-    <div class="number number4">4</div>
-    <div class="number number5">5</div>
-    <div class="number number6">6</div>
-    <div class="number number7">7</div>
-    <div class="number number8">8</div>
-    <div class="number number9">9</div>
-    <div class="number number10">10</div>
-    <div class="number number11">11</div>
-    <div class="number number12">12</div>
-</div>
+
+    <svg viewBox="-50 -50 100 100">
+        <circle class="clock-face" r="48" />
+    
+        <!-- markers -->
+        {#each [0, 5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55] as minute}
+            <line class="major" y1="35" y2="45" transform="rotate({30 * minute})" />
+    
+            {#each [1, 2, 3, 4] as offset}
+                <line class="minor" y1="42" y2="45" transform="rotate({6 * (minute + offset)})" />
+            {/each}
+        {/each}
+    
+        <!-- hour hand -->
+        <line class="hour" y1="2" y2="-20" transform="rotate({30 * hours + minutes / 2})" />
+    
+        <!-- minute hand -->
+        <line class="minute" y1="4" y2="-30" transform="rotate({6 * minutes + seconds / 10})" />
+    
+        <!-- second hand -->
+        <g transform="rotate({6 * seconds})">
+            <line class="second" y1="10" y2="-38" />
+            <line class="second-counterweight" y1="10" y2="2" />
+        </g>
+    </svg>
+    
+    
 
 </div>
    
