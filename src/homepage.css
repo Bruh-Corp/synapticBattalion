@@ -6,16 +6,34 @@ body {
 }
 
 .introduction {
-    margin: 1em;
-    width: 100%;
+    margin: auto;
+    margin-bottom: 1em;
+    width: 90%;
     text-align: center;
+    background-image: 
+    url('/images/neuron.png'), 
+    url('/images/neuron2.png'),
+    url('/images/neuron3.png'),
+    url('/images/neuron4.png');
+    background-repeat: no-repeat;
+    background-position: 
+    10% 40%,
+    90% 40%,
+    0% 70%,
+    100% 70%;
+    background-size: 15%, 15%, 15%, 15%;
+}
+
+.introduction p {
+    width: 60%;
+    margin: auto;
 }
 
 .highlights {
     width: 30%;
     border-radius: .5em;
     height: fit-content;
-    margin: 3em 0 0 1em;
+    margin: 27vh 0 0 1em;
 }
 
 .toggles {
@@ -29,8 +47,50 @@ body {
     text-decoration: none;
 }
 
+
+.toggles h3 {
+    position: relative;
+}
+
+.toggles h3::before {
+    content: '';
+    display: block;
+}
+
 .flexbox {
     width: 97%;
     display: flex;
 }
 
+.content {
+    width: 96%;
+    margin: auto;
+    padding: 1em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.contentCard {
+    width: 18em;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 2em;
+}
+
+.contentCard h4 {
+    margin: 0;
+    text-align: left;
+    width: 100%;
+}
+
+.contentCard p {
+    margin: 0;
+}
+
+.contentCard img {
+    width: 18em;
+}

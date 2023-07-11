@@ -12,6 +12,25 @@ p {
     font-weight: 300;
     font-stretch: 95%;
     font-size: 1.1em;
+    margin: 1em;
+}
+
+.date {
+    font-family: 'Mona Sans';
+    text-shadow: black .001em .001em .07em;
+    font-weight: 700;
+    font-stretch: 125%;
+    color: white;
+    font-size: .7em;
+    padding: .5em;
+    border-radius: .5em;
+    width: 100%;
+    text-align: right;
+    display: flex;
+}
+
+.date span {
+    margin-right: auto;
 }
 
 h1 {
@@ -24,7 +43,6 @@ h1 {
     line-height: 90%;
     text-shadow: black .001em .001em .4em;
     line-height: 75%;
-    margin-top: 0;
 }
 
 
@@ -38,13 +56,30 @@ h2 {
     line-height: 90%;
     text-shadow: black .001em .001em .4em;
     line-height: 75%;
-    margin-top: 0;
+    margin: 1em;
+    margin-bottom: 0;
+    border-bottom: .05em white solid;
+    padding-bottom: .1em;
+    width: 95%;
+    margin-right: auto;
+    margin-left: auto;
 }
 
 h3 {
     font-family: 'Mona Sans';
     text-shadow: black .001em .001em .07em;
     font-weight: 500;
+    font-stretch: 125%;
+    color: white;
+    font-size: 1em;
+    padding: .5em;
+    border-radius: .5em;
+}
+
+h4 {
+    font-family: 'Mona Sans';
+    text-shadow: black .001em .001em .07em;
+    font-weight: 700;
     font-stretch: 125%;
     color: white;
     font-size: 1em;
@@ -72,27 +107,30 @@ input {
     width: 100%;
     border-radius: .5em;
     background-color: black;
-    box-shadow: 0 2em 3em 0em black;
+    box-shadow: 0 2em 3em 1em black;
     background-position: 50% 20%;
     background-size: cover;
     border: black solid .1em;
     z-index: 1000;
 }
 
-.navbar img {
+.imgLogo {
     margin-right: auto;
 }
 
 .navbar a {
     text-decoration-line: none;
     margin: 1em;
+    margin-left: 0;
 }
 
-.navbar h2:hover, .toggles a:hover {
+.navbar a:hover, .toggles a:hover {
     text-decoration-line: underline;
     text-decoration-color: rgb(122, 240, 234);
 }
 
-svg {
-    margin-left: auto;
+.imgArray {
+    margin-right: 0;
+    height: 3em;
+    width: 3em;
 }

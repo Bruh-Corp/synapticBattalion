@@ -1,0 +1,65 @@
+
+.box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 95%;
+    margin: auto;
+}
+
+.box h1 {
+    margin-right: auto;
+    background-image: linear-gradient(to right, white, black);
+    padding: .2em;
+}
+
+.box img {
+    width: 10em;
+    height: 10em;
+}
+
+p {
+    width: 95%;
+    margin: 1em auto 1em auto;
+}
+
+.content {
+    width: 96%;
+    margin: auto;
+    padding: 1em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.contentCard {
+    width: 18em;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 2em;
+}
+
+.contentCard h4 {
+    margin: 0;
+    text-align: left;
+    width: 100%;
+}
+
+.contentCard p {
+    margin: 0;
+    width: 100%;
+}
+
+.visionary {
+    background-image: url('/images/visionary.png');
+    background-repeat: no-repeat;
+    background-size: 9%;
+    background-position: right;
+}
+
+.contentCard img {
+    width: 18em;
+}
