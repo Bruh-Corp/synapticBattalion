@@ -1,5 +1,8 @@
 body {
     width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
 }
 
 .introduction {
@@ -25,3 +28,9 @@ body {
 .toggles a {
     text-decoration: none;
 }
+
+.flexbox {
+    width: 97%;
+    display: flex;
+}
+
