@@ -2,28 +2,35 @@
 <script>
     import '../fonts.css'
     import '../styles.css'
+    import '../homepage.css'
 
     let name = '';
 
 </script>
-
-<center>
+<div class="navbar">
     <img src="/images/sb.png" alt="Hi there">
-</center>
+    <a href=""><h3>About Us</h3></a>
+    <a href=""><h3>Contact Us</h3></a>
+    <a href=""><h3>Bruh Corp.</h3></a>
 
-<h1>Synaptic Battalion</h1>
+</div>
+<div class="introduction">
+    <h1>Synaptic<br>Battalion</h1>
+    <p>Synaptic Battalion (SB.) is an attribute of Bruh Corp. dedicated to editorial and journalistic content.</p>
+    <p>Writers at Synaptic Battalion aim to provide the utmost quality of topical journalism</p>
+</div>
 
-<center>
-    <p>Synaptic Battalion is an attribute of Bruh Corp. dedicated to editorial and journalistic content.</p>
-</center>
+<div class="highlights">
+    <h2>Recent Highlights</h2>
+    <a href=""><p>some article</p></a>
+    <a href=""><p>another article</p></a>
+    <a href=""><p>ww3</p></a>
+</div>
 
-<h2>
-    Welcome to SvelteKit
-</h2>
-
-<p>Enter your name to be greeted</p>
-
-<input bind:value={name} />
-
-<p>Hi there {name || 'stranger'}.</p>
-
+<div class="toggles">
+    <a href=""><h3>101</h3></a>
+    <a href=""><h3>Editorial</h3></a>
+    <a href=""><h3>Article</h3></a>
+    <a href=""><h3>report</h3></a>
+    <a href=""><h3>genre</h3></a>
+</div>

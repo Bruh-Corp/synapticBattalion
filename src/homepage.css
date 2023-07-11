@@ -1,0 +1,27 @@
+body {
+    width: 100%;
+}
+
+.introduction {
+    margin: 1em;
+    width: 100%;
+    text-align: center;
+}
+
+.highlights {
+    width: 30%;
+    border-radius: .5em;
+    height: fit-content;
+    margin: 3em 0 0 1em;
+}
+
+.toggles {
+    width: 70%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.toggles a {
+    text-decoration: none;
+}

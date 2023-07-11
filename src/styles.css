@@ -1,6 +1,10 @@
 
 body {
     background-color: black;
+    background-repeat: no-repeat;
+    height: 200vh;
+    overflow-x: hidden;
+    padding-top: 10em;
 }
 
 p {
@@ -9,31 +13,84 @@ p {
     text-shadow: black .001em .001em .07em;
     font-weight: 300;
     font-stretch: 95%;
+    font-size: 1.1em;
 }
 
 h1 {
     font-family: 'Mona Sans';
     color: white;
-    text-shadow: black .001em .001em .07em;
     font-weight: 900;
-    font-stretch: 105%;
-    font-size: 3em;
-    text-align: center;    
+    font-stretch: 125%;
+    font-size: 7em;
+    transform: skew(-10deg);
+    line-height: 90%;
+    text-shadow: black .001em .001em .4em;
+    line-height: 75%;
+    margin-top: 0;
 }
+
 
 h2 {
     font-family: 'Mona Sans';
+    color: white;
+    font-weight: 900;
+    font-stretch: 125%;
+    font-size: 4em;
+    transform: skew(-10deg);
+    line-height: 90%;
+    text-shadow: black .001em .001em .4em;
+    line-height: 75%;
+    margin-top: 0;
+}
+
+h3 {
+    font-family: 'Mona Sans';
     text-shadow: black .001em .001em .07em;
     font-weight: 500;
-    font-stretch: 75;
+    font-stretch: 125%;
     color: white;
+    font-size: 1em;
+    padding: .5em;
+    border-radius: .5em;
 }
 
 img {
-    width: 9em;
+    width: 5em;
+    background-color: black;
+    padding: .2em;
 }
 
 input {
-    background-color: black;
+    background-color: rgb(255, 60, 0);
     border: .01em white solid;
+}
+
+.navbar {
+    position: fixed;
+    top: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    border-radius: .5em;
+    background-color: black;
+    box-shadow: 0 2em 3em 0em black;
+    background-position: 50% 20%;
+    background-size: cover;
+    border: black solid .1em;
+    z-index: 1000;
+}
+
+.navbar img {
+    margin-right: auto;
+}
+
+.navbar a {
+    text-decoration-line: none;
+    margin: 1em;
+}
+
+.navbar h2:hover, .toggles a:hover {
+    text-decoration-line: underline;
+    text-decoration-color: rgb(122, 240, 234);
 }
