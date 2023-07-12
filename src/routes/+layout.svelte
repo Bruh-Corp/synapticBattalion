@@ -14,5 +14,25 @@
     <img class="imgArray" src="/images/bcsb.png" alt="Hi there">
     <a href="https://bruh-corp.github.io/" target="_blank"><h3>Bruh Corp.</h3></a>
 </div>
-
 <slot></slot>
+<footer>
+    <div class="footerItem one">
+        <h4>
+            Synaptic Battalion - 2023
+        </h4>
+        <p>A service of Bruh Corp.</p>
+    </div>
+    <div class="footerItem">
+        <h2>
+            @
+        </h2>
+        <a href="https://github.com/Talha-Ijaz-Qureshi/synapticBattalion"><h3>Github</h3></a>
+        <a href="mailto:synapticbattalion@gmail.com?subject=I visited Synaptic Battalion!"><h3>Email</h3></a>
+        <a href="https://bruh-corp.github.io/"><h3>Bruh Corp.</h3></a>
+    </div>
+</footer>
+<div class="footerFlex">
+    <img class="footerImg" src="/images/sbfooter.png" alt="Hi there">
+    <img class="footerImg" src="/images/sbfooter2.png" alt="Hi there">
+</div>
+

@@ -3,6 +3,7 @@ body {
     background-repeat: no-repeat;
     overflow-x: hidden;
     padding-top: 10em;
+    margin: 0;
 }
 
 p {
@@ -87,7 +88,7 @@ h4 {
     border-radius: .5em;
 }
 
-img {
+.imgLogo {
     width: 5em;
     background-color: black;
     padding: .2em;
@@ -124,7 +125,7 @@ input {
     margin-left: 0;
 }
 
-.navbar a:hover, .toggles a:hover {
+a:hover, .toggles a:hover {
     text-decoration-line: underline;
     text-decoration-color: rgb(122, 240, 234);
 }
@@ -133,4 +134,68 @@ input {
     margin-right: 0;
     height: 3em;
     width: 3em;
+}
+
+.footerArray {
+    width: 100%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footerArray img {
+    width: 15%;
+}
+
+footer {
+    width: 100%;
+    height: fit-content;
+    margin: auto;
+    margin-top: 7em;
+    display: flex;
+    justify-content: center;
+    align-items: self-start;
+}
+
+.footerItem {
+    margin: 1em;
+}
+
+.footerItem.one {
+    margin-right: auto;
+}
+
+footer h4, footer p {
+    margin: 0;
+    padding: 0;
+}
+
+footer h4 {
+    font-size: 2em;
+    border-radius: 0%;
+}
+
+footer a {
+    text-decoration: underline;
+    text-decoration-color: white;
+    margin: 0;
+}
+
+footer h2 {
+    border: 0;
+    margin-top: 0;
+}
+
+footer h3 {
+    margin: 0;
+}
+
+.footerImg {
+    width: 50%;
+}
+
+.footerFlex {
+    z-index: -100;
+    display: flex;
 }

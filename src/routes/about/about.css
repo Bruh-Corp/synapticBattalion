@@ -16,6 +16,7 @@
 .box img {
     width: 10em;
     height: 10em;
+    margin: .5em;
 }
 
 p {

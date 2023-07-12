@@ -21,7 +21,7 @@
 
 <div class="content">
     <div class="contentCard">
-        <img src="/images/gr8.png" alt="Hi there">
+        <img src="/images/talwhite.png" alt="Hi there">
         <h4>
             Muhammad Talha Ijaz
         </h4>
@@ -29,7 +29,7 @@
         <div class="date"><span>Apex Journalist</span>Visionary</div>
     </div>
     <div class="contentCard">
-        <img src="/images/abban.png" alt="Hi there">
+        <img src="/images/apple.png" alt="Hi there">
         <h4>
             Abban Fahim
         </h4>
