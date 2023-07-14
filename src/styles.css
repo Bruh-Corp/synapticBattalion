@@ -199,3 +199,25 @@ footer h3 {
     z-index: -100;
     display: flex;
 }
+
+.footerItem img {
+    width: 3em;
+    height: 3em;
+    margin-bottom: .5em;
+}
+
+.sveltebox {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #1A1A1A;
+    width: fit-content;
+    border-radius: .3em;
+    margin: .3em;
+    margin-left: 0;
+}
+
+.sveltebox h3 {
+    color: white;
+}

@@ -23,7 +23,7 @@
 
 <div class="content">
 	<div class="contentCard">
-		<img src="{base}/images/talwhite.png" alt="Hi there" />
+		<img src="{base}/images/gr8.jpg" alt="Hi there" />
 		<h4>Muhammad Talha Ijaz</h4>
 		<p class="visionary">"Quaint & Pedantic."</p>
 		<div class="date"><span>Apex Journalist</span>Visionary</div>

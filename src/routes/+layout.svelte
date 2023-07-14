@@ -20,6 +20,9 @@
 	<div class="footerItem one">
 		<h4>Synaptic Battalion - 2023</h4>
 		<p>A service of Bruh Corp.</p>
+		<div class="sveltebox">
+			<h3>Made using SvelteKit</h3><img src="{base}/images/svelte-logo.png" alt="">
+		</div>
 	</div>
 	<div class="footerItem">
 		<h2>@</h2>
