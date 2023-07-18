@@ -6,11 +6,13 @@
 </script>
 
 <div class="box">
-	<h1>Synaptic<br />Battalion</h1>
-	<img src="{base}/images/neuron.png" alt="Hi there" />
-	<img src="{base}/images/neuron2.png" alt="Hi there" />
-	<img src="{base}/images/neuron3.png" alt="Hi there" />
-	<img src="{base}/images/neuron4.png" alt="Hi there" />
+	<h1 class="pagetitle">Synaptic<br />Battalion</h1>
+	<div class="imgBox">
+		<img class="aboutPgImg" src="{base}/images/neuron.png" alt="Hi there" />
+		<img class="aboutPgImg" src="{base}/images/neuron2.png" alt="Hi there" />
+		<img class="aboutPgImg" src="{base}/images/neuron3.png" alt="Hi there" />
+		<img class="aboutPgImg" src="{base}/images/neuron4.png" alt="Hi there" />	
+	</div>
 </div>
 <h2>About Us.</h2>
 <p>
@@ -19,6 +21,7 @@
 	is a publishing site for young and aspiring individuals accentuating and evincing their writing
 	skills.
 </p>
+
 <h2>Members at SB.</h2>
 
 <div class="content">

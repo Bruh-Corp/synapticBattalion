@@ -68,7 +68,7 @@ body {
     padding: 1em;
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: self-start;
     flex-wrap: wrap;
 }
 
@@ -93,4 +93,27 @@ body {
 
 .contentCard img {
     width: 18em;
+}
+
+@media only screen 
+  and (max-device-width: 768px) 
+ {
+    .introduction {
+        background-position: 
+        10% 10%,
+        90% 10%,
+        0% 60%,
+        100% 60%;
+        background-size: 25%, 25%, 25%, 25%;
+    }
+
+}
+
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+ {
+    .introduction {
+        background-size: 20%, 20%, 20%, 20%;
+    }
 }

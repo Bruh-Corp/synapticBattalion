@@ -6,14 +6,18 @@ body {
     margin: 0;
 }
 
-p {
+p, ul {
     color: white;
     font-family: 'Mona Sans';
     text-shadow: black .001em .001em .07em;
     font-weight: 300;
     font-stretch: 95%;
-    font-size: 1.1em;
+    font-size: calc(.8em + .38vw);
     margin: 1em;
+}
+
+ul {
+    list-style-type: decimal;
 }
 
 .date {
@@ -34,16 +38,25 @@ p {
     margin-right: auto;
 }
 
+
+.pagetitle {
+    background-image: linear-gradient(to right, white, black);
+    padding: .2em;
+    width: fit-content;
+}
+
+
 h1 {
     font-family: 'Mona Sans';
     color: white;
     font-weight: 900;
     font-stretch: 125%;
-    font-size: 7em;
+    font-size: calc(2.5em + 4.2vw);
     transform: skew(-10deg);
     line-height: 90%;
     text-shadow: black .001em .001em .4em;
     line-height: 75%;
+    text-transform: capitalize;
 }
 
 
@@ -52,7 +65,7 @@ h2 {
     color: white;
     font-weight: 900;
     font-stretch: 125%;
-    font-size: 4em;
+    font-size: calc(1.5em + 3vw);
     transform: skew(-10deg);
     line-height: 90%;
     text-shadow: black .001em .001em .4em;
@@ -64,6 +77,7 @@ h2 {
     width: 95%;
     margin-right: auto;
     margin-left: auto;
+
 }
 
 h3 {
@@ -86,6 +100,21 @@ h4 {
     font-size: 1em;
     padding: .5em;
     border-radius: .5em;
+    text-transform: capitalize;
+}
+
+h5 {
+    font-family: 'Mona Sans';
+    text-shadow: black .001em .001em .07em;
+    font-weight: 500;
+    font-stretch: 125%;
+    color: white;
+    border-bottom: white .1em solid;
+    font-size: 1em;
+    padding: 0em;
+    margin: auto;
+    margin-top: 2em;
+    width: fit-content;
 }
 
 .imgLogo {
@@ -115,13 +144,19 @@ input {
     z-index: 1000;
 }
 
+.navItem {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .imgLogo {
     margin-right: auto;
 }
 
 .navbar a {
     text-decoration-line: none;
-    margin: 1em;
+    margin: .5em;
     margin-left: 0;
 }
 
@@ -134,18 +169,6 @@ a:hover, .toggles a:hover {
     margin-right: 0;
     height: 3em;
     width: 3em;
-}
-
-.footerArray {
-    width: 100%;
-    margin: auto;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.footerArray img {
-    width: 15%;
 }
 
 footer {
@@ -201,8 +224,8 @@ footer h3 {
 }
 
 .footerItem img {
-    width: 3em;
-    height: 3em;
+    width: 2.5em;
+    height: 2.5em;
     margin-bottom: .5em;
 }
 
@@ -220,4 +243,40 @@ footer h3 {
 
 .sveltebox h3 {
     color: white;
+}
+
+.dalleBanner {
+    font-size: .75em;
+}
+
+@media only screen 
+  and (max-device-width: 767px) {
+    .navItem a {
+        font-size: .65em;
+    }
+
+    .imgArray {
+        width: 1.4em;
+        height: 1.4em;
+    }
+
+}
+
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+ {
+
+    h2 {
+        font-size: 2.3em;
+    }
+
+    .navbar a {
+        font-size: .9em;
+    }
+
+    .imgArray {
+        width: 2.5em;
+        height: 2.5em;
+    }
 }

@@ -1,0 +1,45 @@
+
+.pagetitle {
+    margin: 1em;
+    margin-right: auto;
+    font-size: calc(1em + 4.2vw);
+}
+
+.flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.titleImg {
+    width: 40%;
+    margin: auto;
+}
+
+.datebox {
+    width: 95%;
+    display: flex;
+    justify-content: center;
+    align-items: self-end;
+    flex-direction: column;
+}
+
+.datebox h4 {
+    margin: 0;
+    padding: 0;
+}
+
+.datebox img {
+    width: 2em;
+    height: 2em;
+}
+
+.box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+a {
+    color: white;
+}

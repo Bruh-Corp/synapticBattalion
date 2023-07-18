@@ -1,0 +1,56 @@
+.box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 95%;
+    margin: auto;
+    flex-wrap: wrap;
+}
+
+.pagetitle {
+    margin-right: auto;
+    background-image: linear-gradient(to right, white, black);
+    padding: .2em;
+}
+
+.joinPgImg {
+    width: calc(1.5em + 6vw);
+    height: calc(1.5em + 6vw);
+    margin: .3em;
+}
+
+.LinkBox {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.joinLink {
+    margin: auto;
+    font-family: 'Mona Sans';
+    border-radius: .5em;
+    text-decoration: none;
+    border: .05em white solid;
+    background-color: white;
+    padding: .5em;
+}
+
+.joinLink h3 {
+    color: black;
+    padding: 0;
+    margin: 0;
+}
+
+p {
+    margin: auto;
+    width: 95%;
+    padding: 1em;
+}
+
+/* Phones (Portrait and Landscape) */
+@media only screen 
+  and (max-device-width: 767px) {
+    .joinPgImg {
+        margin: .1em;
+    }
+}

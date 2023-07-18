@@ -5,17 +5,18 @@
     align-items: center;
     width: 95%;
     margin: auto;
+    flex-wrap: wrap;
 }
 
-.box h1 {
+.pagetitle {
     margin-right: auto;
     background-image: linear-gradient(to right, white, black);
     padding: .2em;
 }
 
-.box img {
-    width: 10em;
-    height: 10em;
+.aboutPgImg {
+    width: calc(3.3em + 6VW);
+    height: calc(3.3em + 6VW);
     margin: .5em;
 }
 
@@ -52,6 +53,7 @@ p {
 .contentCard p {
     margin: 0;
     width: 100%;
+    padding: 0;
 }
 
 .visionary {
@@ -63,4 +65,10 @@ p {
 
 .contentCard img {
     width: 18em;
+}
+
+/* Phones (Portrait and Landscape) */
+@media only screen 
+  and (max-device-width: 767px) {
+
 }
