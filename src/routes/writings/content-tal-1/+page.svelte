@@ -1,3 +1,8 @@
+<svelte:head>
+	<title>SB. Tal</title>
+    <meta name="description" content="Do emerging technologies in modern warfare have an absolute role in peacekeeping? Author: Muhammad Talha Ijaz, Length: 1971 words.">
+</svelte:head>
+
 <script>
 	import '../../../fonts.css';
 	import '../../../styles.css';

@@ -1,3 +1,8 @@
+<svelte:head>
+	<title>About SB.</title>
+	<meta name="description" content="Synaptic Battalion (SB.) is an attribute of Bruh Corp. dedicated to editorial and journalistic content. Writers at Synaptic Battalion aim to provide the utmost quality of topical journalism SB. is a publishing site for young and aspiring individuals accentuating and evincing their writing skills. Members: Muhammad Talha Ijaz, Abban Fahim, Fasam Nadeem.">
+</svelte:head>
+
 <script>
 	import '../../fonts.css';
 	import '../../styles.css';

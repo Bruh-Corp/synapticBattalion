@@ -1,3 +1,8 @@
+<svelte:head>
+	<title>Join SB.</title>
+	<meta name="description" content="The synaptic Battalion is a legion of journalists, where writers can publish well researched and indepth reports on various fields of topics as a hobby. The fundamental aim of writers at Synaptic Battalion is to uphold the reverence and passion of journalism; producing quality content that does not make compromises for clicks and attention.">
+</svelte:head>
+
 <script>
 	import '../../fonts.css';
 	import '../../styles.css';

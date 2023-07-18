@@ -1,3 +1,8 @@
+<svelte:head>
+	<title>Synaptic Battalion</title>
+	<meta name="description" content="Synaptic Battalion (SB.) is an attribute of Bruh Corp. dedicated to editorial and journalistic content.">
+</svelte:head>
+
 <script>
 	import '../fonts.css';
 	import '../styles.css';

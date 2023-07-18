@@ -51,7 +51,7 @@ h1 {
     color: white;
     font-weight: 900;
     font-stretch: 125%;
-    font-size: calc(2.5em + 4.2vw);
+    font-size: calc(2.5em + 5vw);
     transform: skew(-10deg);
     line-height: 90%;
     text-shadow: black .001em .001em .4em;
@@ -65,7 +65,7 @@ h2 {
     color: white;
     font-weight: 900;
     font-stretch: 125%;
-    font-size: calc(1.5em + 3vw);
+    font-size: calc(1.5em + 2.6vw);
     transform: skew(-10deg);
     line-height: 90%;
     text-shadow: black .001em .001em .4em;
