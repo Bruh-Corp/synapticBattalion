@@ -26,6 +26,7 @@
 			<h3>Made using SvelteKit</h3><img src="{base}/images/svelte-logo.png" alt="">
 		</div>
 		<p class="dalleBanner">SB. uses DALL·E's generated images.</p>
+		<p class="dalleBanner">SB. uses GitHub's Mona Sans Font.</p>
 	</div>
 	<div class="footerItem">
 		<h2>@</h2>

@@ -34,19 +34,30 @@
 		<img src="{base}/images/gr8.jpg" alt="Hi there" />
 		<h4>Muhammad Talha Ijaz</h4>
 		<p class="visionary">"Quaint & Pedantic."</p>
-		<div class="date"><span>Apex Journalist</span>Visionary</div>
-	</div>
+		<div class="date"><span>Apex Journalist</span>Visionary, Founder of SB.</div>
+		<div class="date"><span>@</span>
+			<a href="https://talha-ijaz-qureshi.github.io/personalsite/">Site</a>
+			<a href="mailto:muhammadtalhaijaz2005@gmail.com">Gmail</a>
+			<a href="https://github.com/Talha-Ijaz-Qureshi/">GitHub</a></div>
+		</div>
 	<div class="contentCard">
 		<img src="{base}/images/apple.png" alt="Hi there" />
 		<h4>Abban Fahim</h4>
 		<p class="visionary">"Flimsy n' sturdy."</p>
 		<div class="date"><span>Apex Journalist</span>Visionary</div>
-	</div>
+		<div class="date"><span>@</span>
+			<a href="https://www.abbanf.tech/">Site</a>
+			<a href="mailto:contact@abbanf.tech">Gmail</a>
+			<a href="https://github.com/Abban-Fahim/">GitHub</a></div>
+		</div>
 	<div class="contentCard">
 		<img src="{base}/images/fasam.jpg" alt="Hi there" />
 		<h4>Fasam Nadeem</h4>
-		<p>"Flimsy n' sturdy."</p>
+		<p>"Eutrophication of wisdom."</p>
 		<div class="date"><span>Journalist</span>Member</div>
-	</div>
+		<div class="date"><span>@</span>
+			<a href="mailto:fasam.nadeem63@gmail.com">Gmail</a>
+			<a href="https://github.com/Fasamm/">GitHub</a></div>
+		</div>
 </div>
 

@@ -12,11 +12,12 @@
 
 <div class="introduction">
 	<h1>Synaptic<br />Battalion</h1>
-	<p>
-		Synaptic Battalion (SB.) is an attribute of Bruh Corp. dedicated to editorial and journalistic
-		content.
-	</p>
 </div>
+<p>
+	Synaptic Battalion (SB.) is an attribute of Bruh Corp. dedicated to editorial and journalistic
+	content.
+</p>
+
 <!-- <div class="flexbox">
     <div class="highlights">
         <h2>Publishes</h2>
@@ -39,6 +40,7 @@
 </div> -->
 
 <div class="content">
+
 	<div class="contentCard">
 		<a href="{base}/">
 			<img src="{base}/images/neuron.png" alt="Hi there" />
@@ -47,14 +49,25 @@
 		<p>In today's topic we will be explaining why racism is scientific</p>
 		<div class="date"><span>Wednesday</span>9th March, 2005</div>
 	</div>
+
 	<div class="contentCard">
 		<a href="{base}/">
 			<img src="{base}/images/neuron.png" alt="Hi there" />
-		</a>		
+		</a>
 		<h4>Today's Topic: Slavery</h4>
 		<p>In today's topic we will be explaining why racism is scientific</p>
 		<div class="date"><span>Wednesday</span>9th March, 2005</div>
 	</div>
+	
+	<div class="contentCard">
+		<a href="{base}/">
+			<img src="{base}/images/neuron.png" alt="Hi there" />
+		</a>
+		<h4>Today's Topic: Slavery</h4>
+		<p>In today's topic we will be explaining why racism is scientific</p>
+		<div class="date"><span>Wednesday</span>9th March, 2005</div>
+	</div>
+
 	<div class="contentCard">
 		<a href="{base}/writings/content-tal-1">
 			<img src="{base}/images/articletal1.png" alt="Hi there" />
@@ -62,14 +75,6 @@
 		<h4>Role of modern technology in warfare & peacekeeping</h4>
 		<p>Do emerging technologies in modern warfare have an absolute role in peacekeeping?</p>
 		<div class="date"><span>Friday</span>14th January, 2022</div>
-	</div>
-	<div class="contentCard">
-		<a href="{base}/">
-			<img src="{base}/images/neuron.png" alt="Hi there" />
-		</a>		
-		<h4>introducing, Synaptic Battalion</h4>
-		<p>An informative guide on the Synaptic Battalion</p>
-		<div class="date"><span>Wednesday</span>9th March, 2005</div>
 	</div>
 </div>
 

@@ -10,10 +10,12 @@ p, ul {
     color: white;
     font-family: 'Mona Sans';
     text-shadow: black .001em .001em .07em;
-    font-weight: 300;
-    font-stretch: 95%;
-    font-size: calc(.8em + .38vw);
-    margin: 1em;
+    font-weight: 400;
+    font-stretch: 100%;
+    font-size: calc(.9em + .38vw);
+    margin: 0;
+    margin-left: 1em;
+    margin-right: 1em;
 }
 
 ul {
@@ -28,6 +30,7 @@ ul {
     color: white;
     font-size: .7em;
     padding: .5em;
+    padding-bottom: 0;
     border-radius: .5em;
     width: 100%;
     text-align: right;
@@ -74,7 +77,8 @@ h2 {
     margin-bottom: 0;
     border-bottom: .05em white solid;
     padding-bottom: .1em;
-    width: 95%;
+    padding-left: .5em;
+    width: 99%;
     margin-right: auto;
     margin-left: auto;
 

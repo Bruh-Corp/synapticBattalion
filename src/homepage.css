@@ -6,12 +6,21 @@ body {
 }
 
 .introduction {
-    margin: auto;
     margin-bottom: 1em;
-    width: 90%;
+    width: 100%;
     text-align: center;
-    background-image: 
-    url('/images/neuron.png'), 
+    background-image: url('/images/neuron2.png');
+    background-size: cover;
+    padding: 1em;
+    padding-left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+/*  url('/images/neuron.png'), 
     url('/images/neuron2.png'),
     url('/images/neuron3.png'),
     url('/images/neuron4.png');
@@ -22,11 +31,10 @@ body {
     0% 70%,
     100% 70%;
     background-size: 15%, 15%, 15%, 15%;
-}
+ */
 
-.introduction p {
-    width: 60%;
-    margin: auto;
+.introduction img {
+    width: 50%;
 }
 
 .highlights {
@@ -85,27 +93,22 @@ body {
     margin: 0;
     text-align: left;
     width: 100%;
+    padding-bottom: .1em;
 }
 
 .contentCard p {
     margin: 0;
+    font-size: .9em;
 }
 
 .contentCard img {
-    width: 18em;
+    width: 100%;
 }
 
 @media only screen 
   and (max-device-width: 768px) 
  {
-    .introduction {
-        background-position: 
-        10% 10%,
-        90% 10%,
-        0% 60%,
-        100% 60%;
-        background-size: 25%, 25%, 25%, 25%;
-    }
+
 
 }
 
@@ -113,7 +116,5 @@ body {
   and (min-device-width: 768px) 
   and (max-device-width: 1024px) 
  {
-    .introduction {
-        background-size: 20%, 20%, 20%, 20%;
-    }
+
 }
