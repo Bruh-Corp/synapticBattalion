@@ -41,12 +41,6 @@
     margin: 0;
 }
 
-p {
-    margin: auto;
-    width: 95%;
-    padding: 1em;
-}
-
 /* Phones (Portrait and Landscape) */
 @media only screen 
   and (max-device-width: 767px) {

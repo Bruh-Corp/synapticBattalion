@@ -16,6 +16,7 @@ p, ul {
     margin: 0;
     margin-left: 1em;
     margin-right: 1em;
+    padding: 1em;
 }
 
 ul {
