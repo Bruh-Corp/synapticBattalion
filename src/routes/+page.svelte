@@ -40,34 +40,6 @@
 </div> -->
 
 <div class="content">
-
-	<div class="contentCard">
-		<a href="{base}/">
-			<img src="{base}/images/neuron.png" alt="Hi there" />
-		</a>
-		<h4>Today's Topic: Slavery</h4>
-		<p>In today's topic we will be explaining why racism is scientific</p>
-		<div class="date"><span>Wednesday</span>9th March, 2005</div>
-	</div>
-
-	<div class="contentCard">
-		<a href="{base}/">
-			<img src="{base}/images/neuron.png" alt="Hi there" />
-		</a>
-		<h4>Today's Topic: Slavery</h4>
-		<p>In today's topic we will be explaining why racism is scientific</p>
-		<div class="date"><span>Wednesday</span>9th March, 2005</div>
-	</div>
-	
-	<div class="contentCard">
-		<a href="{base}/">
-			<img src="{base}/images/neuron.png" alt="Hi there" />
-		</a>
-		<h4>Today's Topic: Slavery</h4>
-		<p>In today's topic we will be explaining why racism is scientific</p>
-		<div class="date"><span>Wednesday</span>9th March, 2005</div>
-	</div>
-
 	<div class="contentCard">
 		<a href="{base}/writings/content-tal-1">
 			<img src="{base}/images/articletal1.png" alt="Hi there" />
