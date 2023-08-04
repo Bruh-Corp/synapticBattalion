@@ -26,6 +26,7 @@
 </div>
 
 <h2>Introduction</h2>
+
 <p>
     In the past millennium, mankind’s impulsive inquisitiveness paved the way for a preeminent era of technologically advanced civilization that has indubitably recast the days of dealing with mechanical tools to the adept system of a digitalised world. Phenomenal amounts of dedication is being put to fine-tune ways of processing information smarter and faster than ever. Some of the most eminent examples of current day technologies include Artificial Intelligence (AI), autonomous robotics, quantum computing and the progressive cybernetics.
 </p>

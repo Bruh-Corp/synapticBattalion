@@ -12,8 +12,9 @@
 }
 
 .titleImg {
-    width: 40%;
+    max-width: clamp(30%, 80%, 100%);
     margin: auto;
+    margin-top: 5em;
 }
 
 .datebox {
@@ -42,5 +43,8 @@
 
 a {
     color: white;
+}
+
+p {
     
 }

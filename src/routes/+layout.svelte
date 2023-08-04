@@ -34,6 +34,7 @@
 		<a href="mailto:synapticbattalion@gmail.com?subject=I visited Synaptic Battalion!"
 			><h3>Email</h3></a
 		>
+		<a href="https://www.instagram.com/synapticbattalion/"><h3>Instagram</h3></a>
 		<a href="https://bruh-corp.github.io/"><h3>Bruh Corp.</h3></a>
 	</div>
 </footer>
