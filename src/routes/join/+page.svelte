@@ -35,7 +35,7 @@
 <h2>Apply at SB.</h2>
 
 <p>
-	Writers willing to join the Battalion should submit material that accentuates their writing, research and journalism skills. Writers may pick any topic they wish. The application must also contain a general introduction about the writer and their writing skills, hobby and passion.
+	Writers willing to join the Battalion should submit a small piece of material that accentuates their writing, research and journalism skills to be assessed on. Writers may pick any topic they wish. The application must also contain a general introduction about the writer and their writing skills, hobby and passion.
 </p>
 <div class="LinkBox">
 	<a class="joinLink" href="mailto:synapticbattalion@gmail.com"><h3>Email us your application.</h3></a>

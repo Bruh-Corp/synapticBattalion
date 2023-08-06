@@ -32,7 +32,7 @@
 <div class="content">
 	<div class="contentCard">
 		<img src="{base}/images/gr8.jpg" alt="Hi there" />
-		<h4>Muhammad Talha Ijaz</h4>
+		<h4>Talha "tal" Ijaz</h4>
 		<p class="visionary">"Quaint & Pedantic."</p>
 		<div class="date"><span>Apex Journalist</span>Visionary, Founder of SB.</div>
 		<div class="date"><span>@</span>
@@ -54,10 +54,18 @@
 		<img src="{base}/images/fasam.jpg" alt="Hi there" />
 		<h4>Fasam Nadeem</h4>
 		<p>"Eutrophication of wisdom."</p>
-		<div class="date"><span>Journalist</span>Member</div>
+		<div class="date"><span>Journalist</span>Social Media Manager, Member</div>
 		<div class="date"><span>@</span>
 			<a href="mailto:fasam.nadeem63@gmail.com">Gmail</a>
 			<a href="https://github.com/Fasamm/">GitHub</a></div>
 		</div>
-</div>
-
+		<div class="contentCard">
+			<img src="{base}/images/assil.jpg" alt="Hi there" />
+			<h4>A++</h4>
+			<p>"Aura of ambitious indolence."</p>
+			<div class="date"><span>Journalist</span>Member</div>
+			<div class="date"><span>@</span>
+				<a href="mailto:synapticbattalion@gmail.com">Gmail</a>
+				<a href="https://github.com/TitanicCoder">GitHub</a></div>
+			</div>
+	</div>
