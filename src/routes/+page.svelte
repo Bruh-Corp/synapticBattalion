@@ -44,15 +44,23 @@
 		<a href="{base}/">
 			<img src="{base}/images/comingsoon.png" alt="Hi there" />
 		</a>
-		<h4>Publishing Soon.</h4>
-		<p>??????????????????????????????????????</p>
-		<div class="date"><span>???</span>??? ???, ????</div>
+		<h4>?????</h4>
+		<p>...</p>
+		<div class="date"><span>???</span>????</div>
+	</div>
+	<div class="contentCard">
+		<a href="{base}/writings/content-aasil-1">
+			<img src="{base}/images/articleaasil1.png" alt="Hi there" />
+		</a>
+		<h4>AI's Risk to the Cyberspace's Credibility</h4>
+		<p>Credibility:  Deepfakes, AI, Freedom of Speech, Political Lies, Misinformation & The Fall of the Internet </p>
+		<div class="date"><span>A++</span>6th August, 2023</div>
 	</div>
 	<div class="contentCard">
 		<a href="{base}/writings/content-tal-1">
 			<img src="{base}/images/articletal1.png" alt="Hi there" />
 		</a>
-		<h4>Role of modern technology in warfare & peacekeeping</h4>
+		<h4>Role of Modern technology in warfare & peacekeeping</h4>
 		<p>Do emerging technologies in modern warfare have an absolute role in peacekeeping?</p>
 		<div class="date"><span>tal</span>14th January, 2022</div>
 	</div>
