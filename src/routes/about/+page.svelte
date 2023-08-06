@@ -44,7 +44,7 @@
 		<img src="{base}/images/apple.png" alt="Hi there" />
 		<h4>Abban Fahim</h4>
 		<p class="visionary">"Flimsy n' sturdy."</p>
-		<div class="date"><span>Apex Journalist</span>Visionary</div>
+		<div class="date"><span>Journalist</span>Visionary</div>
 		<div class="date"><span>@</span>
 			<a href="https://www.abbanf.tech/">Site</a>
 			<a href="mailto:contact@abbanf.tech">Gmail</a>
