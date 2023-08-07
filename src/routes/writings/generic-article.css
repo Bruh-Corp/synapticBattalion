@@ -46,8 +46,14 @@ a {
 }
 
 .quotebox {
-    width: 100%;
+    width: 90%;
     margin: 1em;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
 }
 
 .quote {
@@ -58,6 +64,11 @@ a {
 
 .quote h3 {
     margin: 0;
+}
+
+.quote h4 {
+    margin: 0;
+    text-align: center;
 }
 
 i {

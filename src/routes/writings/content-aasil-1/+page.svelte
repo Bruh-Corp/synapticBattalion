@@ -29,7 +29,7 @@
     </h4>
 </div>
 
-
+<div class="paragraf">
 <p>
     In the pre-Internet world, people believed that access to information was the alchemical cure for ignorance. That, almost poetically, if someone were to invent a portable, easily-viewable, ever-increasing library of information that a good chunk of the world's people can access, you would be able to defeat ignorance and cause intellectual advancement to leap forward.
 </p>
@@ -47,9 +47,9 @@
 </p>
 <div class="quotebox">
     <h3 class="quote">
-        "Everyone has the right to freedom of thought, conscience and religion […] [and] to manifest his religion or belief in teaching, practice, worship and observance."   <h4>–  Article 18</h4>
+        Everyone has the right to freedom of thought, conscience and religion […] [and] to manifest his religion or belief in teaching, practice, worship and observance.   <h4>–  Article 18</h4>
     
-    "Everyone has the right to freedom of opinion and expression; this right includes freedom to hold opinions […] and to seek, receive and impart information and ideas through any media and regardless of frontiers." <h4>– Article 19</h4>
+    Everyone has the right to freedom of opinion and expression; this right includes freedom to hold opinions […] and to seek, receive and impart information and ideas through any media and regardless of frontiers. <h4>– Article 19</h4>
     
     </h3>
 </div>
@@ -61,6 +61,24 @@
 <p>
     And that's what everyone is doing online and in meatspace - and that isn’t the problem. The problem is people are <i>believing</i>.
 </p>
+
+
+<h2>
+    The Coming of the Apostate or, The Departure of Sanity: Freedom of Expression & Cracks in Canonical Law
+</h2>
+
+<div class="quotebox">
+    <h3 class="quote">
+        “The Apostate is coming […] believe in Christ.”
+        <h4>
+            - Youtube spam-comment(s) by an Autonomous Bot
+        </h4>
+        <h3>
+            [ This quotation is not used as an attack on the Christian faith ]
+        </h3>
+    </h3>
+</div>
+
 
 <h2>
     Freedom of Speech
@@ -144,9 +162,9 @@ For example, in the old days, when a person required information, that informati
 </h2>
 
 <div class="quotebox">
-    <h4 class="quote">
-        “May you live in interesting times” <h3>- Source Disputed</h3>
-    </h4>
+    <h3 class="quote">
+        “May you live in interesting times” <h4>- Source Disputed</h4>
+    </h3>
 </div>
 
 <h2>
@@ -389,5 +407,6 @@ Long-term and effective solutions proposed in the way of solving the problem inc
     <li><a target="_blank" href="https://www.tandfonline.com/doi/abs/10.1080/21670811.2022.2026797">The Effect of Deepfake Video on News Credibility and Corrective Influence of Cost-Based Knowledge about Deepfakes.</a> - Shin, S. Y., & Lee, J.</li>
     <li><a target="_blank" href="https://www.un.org/en/about-us/universal-declaration-of-human-rights">Universal Declaration of Human Rights.</a> - United Nations.</li>
     <li><a target="_blank" href="https://journals.sagepub.com/doi/full/10.1177/2056305120903408">Deepfakes and Disinformation: Exploring the Impact of Synthetic Political Video on Deception, Uncertainty, and Trust in News.</a> - Vaccari, C., & Chadwick, A.</li>
-    <li>Audiovisual Resource: <a target="_blank" href="https://www.youtube.com/watch?v=S951cdansBI">"Deep Fakes are About to Change Everything"</a> - Johnny Harris</li>
+    <li>Audiovisual Resource: <a target="_blank" href="https://www.youtube.com/watch?v=S951cdansBI">"Deep Fakes are About to Change Everything"</a> - Johnny Harris.</li>
 </ul>
+</div>
