@@ -52,8 +52,9 @@
 		<a href="{base}/writings/content-aasil-1">
 			<img src="{base}/images/articleaasil1.png" alt="Hi there" />
 		</a>
-		<h4>AI's Risk to the Cyberspace's Credibility</h4>
-		<p>Credibility:  Deepfakes, AI, Freedom of Speech, Political Lies, Misinformation & The Fall of the Internet </p>
+		<h4>Encyclopedia Disinformatica</h4>
+		<p>The Challenges and Choices of Protecting Information on the Internet
+		</p>
 		<div class="date"><span>A++</span>6th August, 2023</div>
 	</div>
 	<div class="contentCard">

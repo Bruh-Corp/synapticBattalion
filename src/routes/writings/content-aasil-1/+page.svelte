@@ -5,7 +5,7 @@
 	import { base } from '$app/paths';
 </script>
 
-<h1 class="pagetitle">AI's Risk to the Cyberspace's Credibility</h1>
+<h1 class="pagetitle">Encyclopedia Disinformatica</h1>
 
 <div class="datebox">
     <h4>6th August, 2023</h4>
@@ -15,7 +15,8 @@
     </div>
 </div>
 
-<h2>Credibility:  deepfakes, AI, Freedom of Speech, Political Lies, Misinformation & The Fall of the Internet</h2>
+<h2>The Challenges and Choices of Protecting Information on the Internet
+</h2>
 
 <div class="flex">
     <img class="titleImg" src="{base}/images/articleaasil1.png" alt="Hi there" />
