@@ -1,3 +1,8 @@
+<svelte:head>
+	<title>Encyclopedia Disinformatica - SB.</title>
+    <meta name="description" content="Encyclopedia Disinformatica Author: A++">
+</svelte:head>
+
 <script>
 	import '../../../fonts.css';
 	import '../../../styles.css';
@@ -9,7 +14,7 @@
 
 <div class="datebox">
     <h4>6th August, 2023</h4>
-    <div class="box">
+    <div class="bosx">
         <h4>By A++</h4>
         <img src="{base}/images/assil.jpg" alt="Hi there" />
     </div>

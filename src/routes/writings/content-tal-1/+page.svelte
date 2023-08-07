@@ -1,12 +1,12 @@
 <svelte:head>
-	<title>SB. Tal</title>
+	<title>Technology In Warfare & Peacekeeping - SB.</title>
     <meta name="description" content="Do emerging technologies in modern warfare have an absolute role in peacekeeping? Author: Muhammad Talha Ijaz, Length: 1971 words.">
 </svelte:head>
 
 <script>
 	import '../../../fonts.css';
 	import '../../../styles.css';
-    import './tal1.css'
+    import '../generic-article.css'
 	import { base } from '$app/paths';
 </script>
 
@@ -14,11 +14,11 @@
 
 <div class="datebox">
     <h4>14th January, 2022</h4>
-    <div class="box">
+    <div class="bosx">
         <h4>By Muhammad Talha Ijaz</h4>
         <img src="{base}/images/gr8.jpg" alt="Hi there" />
     </div>
-    <h4>Non-revised version*</h4>
+    <h4>Non-revised version from 2022*</h4>
 </div>
 
 <div class="flex">

@@ -41,19 +41,19 @@
 
 <div class="content">
 	<div class="contentCard">
-		<a href="{base}/">
-			<img src="{base}/images/comingsoon.png" alt="Hi there" />
+		<a href="{base}/writings/content-fasam-1">
+			<img src="{base}/images/articlefasam1.jpeg" alt="Hi there" />
 		</a>
-		<h4>?????</h4>
-		<p>...</p>
-		<div class="date"><span>???</span>????</div>
+		<h4>Infinity</h4>
+		<p>Infinity, A cruel mathematical concept, a philosopher's worse nightmare and the possible explanation of our universe.</p>
+		<div class="date"><span>Fasam</span>7th August, 2023</div>
 	</div>
 	<div class="contentCard">
 		<a href="{base}/writings/content-aasil-1">
 			<img src="{base}/images/articleaasil1.png" alt="Hi there" />
 		</a>
 		<h4>Encyclopedia Disinformatica</h4>
-		<p>The Challenges and Choices of Protecting Information on the Internet
+		<p>The Challenges and Choices of Protecting Information on the Internet.
 		</p>
 		<div class="date"><span>A++</span>6th August, 2023</div>
 	</div>

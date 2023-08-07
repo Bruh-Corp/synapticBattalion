@@ -26,19 +26,28 @@
 }
 
 .datebox h4 {
-    margin: 0;
+    margin: .5em;
     padding: 0;
 }
 
-.datebox img {
-    width: 2em;
-    height: 2em;
+.bosx h4 {
+    margin: 0;
+    padding: 0;
+    text-align: right !important;
 }
 
-.box {
+.datebox img {
+    width: 1.5em;
+    height: 1.5em;
+    margin: 0em;
+    border-radius: .1em;
+}
+
+.bosx {
     display: flex;
     justify-content: center;
     align-items: center;
+    width: fit-content;
 }
 
 a {
@@ -66,10 +75,6 @@ a {
     margin: 0;
 }
 
-.quote h4 {
-    margin: 0;
-    text-align: center;
-}
 
 i {
     font-style: oblique;
