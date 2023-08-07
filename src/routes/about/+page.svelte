@@ -76,6 +76,27 @@
 				<div class="date"><span>@</span>
 					<a href="sms:+923268663636">Phone No.</a>
 					<a href="mailto:raoarisha1413@gmail.com">Gmail</a>
-					<a href="https://www.instagram.com/arisha_ali14/">Instagram</a></div>
+					<a href="https://www.instagram.com/arisha_ali14/">Instagram</a>
+				</div>
+			</div>
+						<div class="contentCard">
+				<img src="{base}/images/aayan.png" alt="Hi there" />
+				<h4>Aayan Moazzam</h4>
+				<p>"Soulful Seeker, Fearless Dreamer."</p>
+				<div class="date"><span>Journalist</span>Member</div>
+				<div class="date"><span>@</span>
+					<a href="mailto:aayanmoazzam1912@gmail.com">Gmail</a>
+					<a href="https://www.instagram.com/4ayn.m/">Instagram</a>
+				</div>
+			</div>
+			<div class="contentCard">
+				<img src="{base}/images/comingsoon.png" alt="Hi there" />
+				<h4>???</h4>
+				<p>"???"</p>
+				<div class="date"><span>Journalist</span>Member</div>
+				<div class="date"><span>@</span>
+					<a href="mailto:">???</a>
+					<a href="https://www.instagram.com/">???</a>
+				</div>
 			</div>
 	</div>
