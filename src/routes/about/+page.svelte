@@ -68,4 +68,14 @@
 				<a href="mailto:synapticbattalion@gmail.com">Gmail</a>
 				<a href="https://github.com/TitanicCoder">GitHub</a></div>
 			</div>
+			<div class="contentCard">
+				<img src="{base}/images/arisha.png" alt="Hi there" />
+				<h4>Arisha Ali</h4>
+				<p>"Hungry for drama."</p>
+				<div class="date"><span>Journalist</span>Member</div>
+				<div class="date"><span>@</span>
+					<a href="sms:+923268663636">Phone No.</a>
+					<a href="mailto:raoarisha1413@gmail.com">Gmail</a>
+					<a href="instagram.com/arisha_ali14">Instagram</a></div>
+			</div>
 	</div>
