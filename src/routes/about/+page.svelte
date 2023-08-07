@@ -76,6 +76,6 @@
 				<div class="date"><span>@</span>
 					<a href="sms:+923268663636">Phone No.</a>
 					<a href="mailto:raoarisha1413@gmail.com">Gmail</a>
-					<a href="instagram.com/arisha_ali14">Instagram</a></div>
+					<a href="https://www.instagram.com/arisha_ali14/">Instagram</a></div>
 			</div>
 	</div>
