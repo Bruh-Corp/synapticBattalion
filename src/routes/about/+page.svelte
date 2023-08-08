@@ -90,13 +90,13 @@
 				</div>
 			</div>
 			<div class="contentCard">
-				<img src="{base}/images/comingsoon.png" alt="Hi there" />
-				<h4>???</h4>
-				<p>"???"</p>
+				<img src="{base}/images/hafsa.jpeg" alt="Hi there" />
+				<h4>Hafsa Zahid</h4>
+				<p>“Curiosity is a skill.”</p>
 				<div class="date"><span>Journalist</span>Member</div>
 				<div class="date"><span>@</span>
-					<a href="mailto:">???</a>
-					<a href="https://www.instagram.com/">???</a>
+					<a href="mailto:hafsaz1881@gmail.com">Gmail</a>
+					<a href="https://www.instagram.com/_hafsaz18">Instagram</a>
 				</div>
 			</div>
 	</div>
