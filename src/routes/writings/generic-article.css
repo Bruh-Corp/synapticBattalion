@@ -12,7 +12,7 @@
 }
 
 .titleImg {
-    max-width: clamp(30%, 80%, 100%);
+    width: 85%;
     margin: auto;
     margin-top: 5em;
 }
@@ -78,4 +78,11 @@ a {
 
 i {
     font-style: oblique;
+}
+
+@media screen and (min-width: 850px) {
+
+    .titleImg {
+        width: 50%;
+    }
 }

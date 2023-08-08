@@ -53,11 +53,13 @@
 </p>
 <div class="quotebox">
     <h3 class="quote">
-        Everyone has the right to freedom of thought, conscience and religion […] [and] to manifest his religion or belief in teaching, practice, worship and observance.   <h4>–  Article 18</h4>
-    
-    Everyone has the right to freedom of opinion and expression; this right includes freedom to hold opinions […] and to seek, receive and impart information and ideas through any media and regardless of frontiers. <h4>– Article 19</h4>
-    
+        Everyone has the right to freedom of thought, conscience and religion […] [and] to manifest his religion or belief in teaching, practice, worship and observance. 
     </h3>
+    <h4>–  Article 18</h4>
+    <h3 class="quote">
+        Everyone has the right to freedom of opinion and expression; this right includes freedom to hold opinions […] and to seek, receive and impart information and ideas through any media and regardless of frontiers. 
+    </h3>
+    <h4>–  Article 19</h4>
 </div>
 
 <p>
