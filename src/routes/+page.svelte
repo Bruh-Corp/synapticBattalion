@@ -67,4 +67,3 @@
 		<div class="date"><span>tal</span>14th January, 2022</div>
 	</div>
 </div>
-

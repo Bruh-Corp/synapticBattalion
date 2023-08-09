@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Overpass:wght@300&family=Press+Start+2P&display=swap');
+
 body {
     width: 100%;
     display: flex;
@@ -105,4 +107,3 @@ body {
 .contentCard img {
     width: 100%;
 }
-
