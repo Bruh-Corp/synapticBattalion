@@ -31,7 +31,7 @@
 
 <div class="content">
 	<div class="contentCard">
-		<img src="{base}/images/gr8.jpg" alt="Hi there" />
+		<img src="{base}/images/cupboi.png" alt="Hi there" />
 		<h4>Talha "tal" Ijaz</h4>
 		<p class="visionary">"Quaint & Pedantic."</p>
 		<div class="date"><span>Apex Journalist</span>Visionary, Founder of SB.</div>
@@ -96,7 +96,7 @@
 				<div class="date"><span>Journalist</span>Member</div>
 				<div class="date"><span>@</span>
 					<a href="mailto:hafsaz1881@gmail.com">Gmail</a>
-					<a href="https://www.instagram.com/_hafsaz18">Instagram</a>
+					<a href="mailto:hafsaz1881@gmail.com">Instagram</a>
 				</div>
 			</div>
 	</div>

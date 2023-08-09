@@ -69,6 +69,10 @@
     width: 18em;
 }
 
+.opacity {
+    opacity: .5;
+}
+
 /* Phones (Portrait and Landscape) */
 @media only screen 
   and (max-device-width: 767px) {
