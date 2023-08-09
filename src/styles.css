@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Overpass:wght@500&display=swap');
+
 body {
     background-color: black;
     background-repeat: no-repeat;
@@ -236,14 +238,16 @@ footer h3 {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background-color: #1A1A1A;
+    background-color: #1E1A19;
     width: fit-content;
     border-radius: .3em;
+    border: 1px solid #ff531a;
     margin: .3em;
     margin-left: 0;
 }
 
 .sveltebox h3 {
+    font-family: 'Overpass', sans-serif;
     color: white;
 }
 
