@@ -1,5 +1,6 @@
 <svelte:head>
 	<title>Synaptic Battalion</title>
+	<meta name="msvalidate.01" content="01B7668062C073ECB07E97793BDD4B56" />
 	<meta name="description" content="Synaptic Battalion (SB.) is an attribute of Bruh Corp. dedicated to editorial and journalistic content.">
 </svelte:head>
 
