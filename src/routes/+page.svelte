@@ -42,6 +42,14 @@
 
 <div class="content">
 	<div class="contentCard">
+		<a href="{base}/">
+			<img src="{base}/images/comingsoon.png" alt="Hi there" />
+		</a>
+		<h4>???</h4>
+		<p>Coming soon.</p>
+		<div class="date"><span>Aayan</span>???</div>
+	</div>
+	<div class="contentCard">
 		<a href="{base}/writings/content-fasam-1">
 			<img src="{base}/images/articlefasam1.jpeg" alt="Hi there" />
 		</a>

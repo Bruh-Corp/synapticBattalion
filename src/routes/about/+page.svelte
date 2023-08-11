@@ -99,4 +99,12 @@
 					<a href="mailto:hafsaz1881@gmail.com">Instagram</a>
 				</div>
 			</div>
+			<div class="contentCard">
+				<img src="{base}/images/comingsoon.png" alt="Hi there" />
+				<h4>???</h4>
+				<p>???</p>
+				<div class="date"><span>Journalist</span>Member</div>
+				<div class="date"><span>@</span>???
+				</div>
+			</div>
 	</div>
