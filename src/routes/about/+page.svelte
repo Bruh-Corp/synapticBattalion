@@ -96,15 +96,17 @@
 				<div class="date"><span>Journalist</span>Member</div>
 				<div class="date"><span>@</span>
 					<a href="mailto:hafsaz1881@gmail.com">Gmail</a>
-					<a href="mailto:hafsaz1881@gmail.com">Instagram</a>
+					<a href="https://www.instagram.com/_hafsaz18">Instagram</a>
 				</div>
 			</div>
 			<div class="contentCard">
-				<img src="{base}/images/comingsoon.png" alt="Hi there" />
-				<h4>???</h4>
-				<p>???</p>
+				<img src="{base}/images/shaani.png" alt="Hi there" />
+				<h4>Syed Abbas</h4>
+				<p>"Medico ignited to write."</p>
 				<div class="date"><span>Journalist</span>Member</div>
-				<div class="date"><span>@</span>???
+				<div class="date"><span>@</span>
+					<a href="mailto:shanizahidy05@gmail.com">Gmail</a>
+					<a href="www.instagram.com/syedabbas.x">Instagram</a>
 				</div>
 			</div>
 	</div>
