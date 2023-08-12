@@ -106,7 +106,7 @@
 				<div class="date"><span>Journalist</span>Member</div>
 				<div class="date"><span>@</span>
 					<a href="mailto:shanizahidy05@gmail.com">Gmail</a>
-					<a href="www.instagram.com/syedabbas.x">Instagram</a>
+					<a href="https://www.instagram.com/syedabbas.x">Instagram</a>
 				</div>
 			</div>
 	</div>
