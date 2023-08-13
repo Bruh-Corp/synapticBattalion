@@ -11,7 +11,7 @@
 	import { base } from '$app/paths';
 </script>
 
-<h1 class="pagetitle">Role of modern technology in warfare & peacekeeping</h1>
+<h1 class="articletitle">Role of modern technology in warfare & peacekeeping</h1>
 
 <div class="datebox">
     <h4>14th January, 2022</h4>

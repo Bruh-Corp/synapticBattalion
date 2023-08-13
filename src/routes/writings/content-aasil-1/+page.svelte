@@ -11,7 +11,7 @@
 	import { base } from '$app/paths';
 </script>
 
-<h1 class="pagetitle">Encyclopedia Disinformatica</h1>
+<h1 class="articletitle">Encyclopedia Disinformatica</h1>
 
 <div class="datebox">
     <h4>6th August, 2023</h4>

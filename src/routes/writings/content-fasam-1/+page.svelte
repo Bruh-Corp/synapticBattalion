@@ -11,7 +11,7 @@
 	import { base } from '$app/paths';
 </script>
 
-<h1 class="pagetitle">Infinity</h1>
+<h1 class="articletitle">Infinity</h1>
 
 <div class="datebox">
     <h4>7th August, 2023</h4>

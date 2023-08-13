@@ -12,7 +12,7 @@
 	import { base } from '$app/paths';
 </script>
 
-<h1 class="pagetitle">Journey to the Stars</h1>
+<h1 class="articletitle">Journey to the Stars</h1>
 
 <div class="datebox">
     <h4>13th August, 2023</h4>
