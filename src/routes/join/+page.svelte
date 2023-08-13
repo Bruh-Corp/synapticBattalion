@@ -11,9 +11,9 @@
 	import { base } from '$app/paths';
 </script>
 
-<div class="box">
+<div class="boxJ">
 	<h1 class="pagetitle">Join The<br>Battalion</h1>
-	<div class="imgBox">
+	<!-- <div class="imgBox">
 		<img class="joinPgImg" src="{base}/images/sbmono1.png" alt="Hi there" />
 		<img class="joinPgImg" src="{base}/images/sbmono2.png" alt="Hi there" />
 	
@@ -22,10 +22,10 @@
 	
 		<img class="joinPgImg" src="{base}/images/sbmono4.png" alt="Hi there" />
 		<img class="joinPgImg" src="{base}/images/sbmono5.png" alt="Hi there" />
-	</div>
+	</div> -->
 </div>
 
-<h2>A Writer's Role In SB.</h2>
+<h2>A Writer's Role <br> @ SB.</h2>
 
 <p>
 	The synaptic Battalion is a legion of journalists, where writers can publish well researched and indepth reports on various fields of topics as a hobby.

@@ -8,12 +8,19 @@
     flex-wrap: wrap;
 }
 
-.pagetitle {
-    margin-right: auto;
-    background-image: linear-gradient(to right, white, black);
-    padding: .2em;
+.box {
+    background-image: url('/images/neuron2.png');
+    background-size: cover;
+    width: 100%;
+    background-position: 50% 10%;
 }
 
+.pagetitle {
+    background-image: linear-gradient(to right, rgb(0, 0, 0, .85), rgba(0, 0, 0, 0.31));
+    padding: .2em;
+    text-align: center;
+    backdrop-filter: blur(.2em);
+}
 .aboutPgImg {
     width: calc(3.3em + 6VW);
     height: calc(3.3em + 6VW);

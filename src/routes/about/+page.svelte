@@ -12,13 +12,13 @@
 </script>
 
 <div class="box">
-	<h1 class="pagetitle">Synaptic<br />Battalion</h1>
-	<div class="imgBox">
+	<h1 class="pagetitle">SB.</h1>
+	<!-- <div class="imgBox">
 		<img class="aboutPgImg" src="{base}/images/neuron.png" alt="Hi there" />
 		<img class="aboutPgImg" src="{base}/images/neuron2.png" alt="Hi there" />
 		<img class="aboutPgImg" src="{base}/images/neuron3.png" alt="Hi there" />
 		<img class="aboutPgImg" src="{base}/images/neuron4.png" alt="Hi there" />	
-	</div>
+	</div> -->
 </div>
 <h2>About Us.</h2>
 <p>

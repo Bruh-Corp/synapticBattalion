@@ -1,4 +1,4 @@
-.box {
+.boxJ {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -7,10 +7,18 @@
     flex-wrap: wrap;
 }
 
+.boxJ {
+    background-image: url('/images/neuron3.png');
+    background-size: cover;
+    width: 100%;
+    background-position: 50% 40%;
+}
+
 .pagetitle {
-    margin-right: auto;
-    background-image: linear-gradient(to right, white, black);
+    background-image: linear-gradient(to right, rgba(0, 0, 0, .85), rgba(0, 0, 0, 0.31));
     padding: .2em;
+    backdrop-filter: blur(.2em);
+    text-align: center;
 }
 
 .joinPgImg {

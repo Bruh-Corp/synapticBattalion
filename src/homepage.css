@@ -11,7 +11,8 @@ body {
     margin-bottom: 1em;
     width: 100%;
     text-align: center;
-    background-image: url('/images/neuron2.png');
+    background-image: url('/images/neuron.png');
+    background-position: 50% 69%;
     background-size: cover;
     padding: 1em;
     padding-left: 0;
@@ -19,6 +20,12 @@ body {
     justify-content: center;
     align-items: center;
     flex-direction: column;
+}
+
+.introduction h1 {
+    backdrop-filter: blur(.2em);
+    padding: .2em;
+    background-color: rgba(0, 0, 0, 0.323);
 }
 
 
