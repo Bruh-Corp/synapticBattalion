@@ -47,7 +47,7 @@
 			<img src="{base}/images/articleaayan1.jpg" alt="Hi there" />
 		</a>
 		<h4>Journey to the stars</h4>
-		<p>CUnveiling the Enigma of Potential Habitable Exoplanets.</p>
+		<p>Unveiling the Enigma of Potential Habitable Exoplanets.</p>
 		<div class="date"><span>Aayan</span>13th August, 2023</div>
 	</div>
 	<div class="contentCard">
