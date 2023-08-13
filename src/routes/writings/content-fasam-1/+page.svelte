@@ -1,5 +1,6 @@
 <svelte:head>
 	<title>Infinity - SB.</title>
+    <link rel="icon" href="{base}/images/articlefasam1.jpeg" />
     <meta name="description" content="Infinity, A cruel mathematical concept, a philosopher's worse nightmare and the possible explanation of our universe. Author: Fasam Nadeem">
 </svelte:head>
 

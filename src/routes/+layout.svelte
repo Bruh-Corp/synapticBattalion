@@ -25,7 +25,7 @@
 		<p class="dalleBanner">SB. uses DALL·E's generated images.</p>
 		<p class="dalleBanner">SB. uses GitHub's Mona Sans Font.</p>
 		<div class="sveltebox">
-			<h3>SvelteKit</h3><img src="{base}/images/svelte-logo.png" alt="">
+			<h3>Powered by SvelteKit</h3><img src="{base}/images/svelte-logo.png" alt="">
 		</div>
 	</div>
 	<div class="footerItem">

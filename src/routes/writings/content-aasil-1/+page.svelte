@@ -1,5 +1,6 @@
 <svelte:head>
 	<title>Encyclopedia Disinformatica - SB.</title>
+    <link rel="icon" href="{base}/images/articleaasil1.png" />
     <meta name="description" content="Encyclopedia Disinformatica Author: A++">
 </svelte:head>
 

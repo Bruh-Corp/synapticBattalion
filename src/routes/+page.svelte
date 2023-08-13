@@ -1,5 +1,6 @@
 <svelte:head>
 	<title>Synaptic Battalion</title>
+	<link rel="icon" href="{base}/favicon.png" />
 	<meta name="msvalidate.01" content="01B7668062C073ECB07E97793BDD4B56" />
 	<meta name="description" content="Synaptic Battalion (SB.) is an attribute of Bruh Corp. dedicated to editorial and journalistic content.">
 </svelte:head>
@@ -42,7 +43,7 @@
 
 <div class="content">
 	<div class="contentCard">
-		<a href="{base}/">
+		<a href="{base}/writings/content-aayan-1">
 			<img src="{base}/images/comingsoon.png" alt="Hi there" />
 		</a>
 		<h4>???</h4>

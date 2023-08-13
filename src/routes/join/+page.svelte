@@ -1,5 +1,6 @@
 <svelte:head>
 	<title>Join SB.</title>
+	<link rel="icon" href="{base}/images/neuron3.png" />
 	<meta name="description" content="The synaptic Battalion is a legion of journalists, where writers can publish well researched and indepth reports on various fields of topics as a hobby. The fundamental aim of writers at Synaptic Battalion is to uphold the reverence and passion of journalism; producing quality content that does not make compromises for clicks and attention.">
 </svelte:head>
 

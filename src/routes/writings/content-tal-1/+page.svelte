@@ -1,5 +1,6 @@
 <svelte:head>
 	<title>Technology In Warfare & Peacekeeping - SB.</title>
+    <link rel="icon" href="{base}/images/articletal1.png" />
     <meta name="description" content="Do emerging technologies in modern warfare have an absolute role in peacekeeping? Author: Muhammad Talha Ijaz, Length: 1971 words.">
 </svelte:head>
 
