@@ -44,11 +44,11 @@
 <div class="content">
 	<div class="contentCard">
 		<a href="{base}/writings/content-aayan-1">
-			<img src="{base}/images/comingsoon.png" alt="Hi there" />
+			<img src="{base}/images/articleaayan1.jpg" alt="Hi there" />
 		</a>
-		<h4>???</h4>
-		<p>Coming soon.</p>
-		<div class="date"><span>Aayan</span>???</div>
+		<h4>Journey to the stars</h4>
+		<p>CUnveiling the Enigma of Potential Habitable Exoplanets.</p>
+		<div class="date"><span>Aayan</span>13th August, 2023</div>
 	</div>
 	<div class="contentCard">
 		<a href="{base}/writings/content-fasam-1">
