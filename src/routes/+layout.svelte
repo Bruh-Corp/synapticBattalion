@@ -2,6 +2,8 @@
 	import '../fonts.css';
 	import '../styles.css';
 	import { base } from '$app/paths';
+	// import { fly } from "svelte/transition"
+	// export let data
 </script>
 
 <div class="navbar">
@@ -17,7 +19,14 @@
 		<a href="https://bruh-corp.github.io/" target="_blank"><h3>Bruh Corp.</h3></a>
 	</div>
 </div>
+
+<!-- {#key data.url}
+<div in:fly={{ x: 0, duration: 200, delay: 200}}
+	out:fly={{duration: 200}}> -->
 <slot />
+<!-- </div>
+{/key} -->
+
 <footer>
 	<div class="footerItem one">
 		<h4>Synaptic Battalion - 2023</h4>
@@ -35,6 +44,7 @@
 			><h3>Email</h3></a
 		>
 		<a href="https://www.instagram.com/synapticbattalion/"><h3>Instagram</h3></a>
+		<a href="https://twitter.com/bruhcorp_sb"><h3>Twitter</h3></a>
 		<a href="https://bruh-corp.github.io/"><h3>Bruh Corp.</h3></a>
 	</div>
 </footer>
