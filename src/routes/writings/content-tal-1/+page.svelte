@@ -21,7 +21,9 @@
     </div>
     <h4>Non-revised version from 2022*</h4>
 </div>
-
+<h2>
+    Do emerging technologies in modern warfare have an absolute role in peacekeeping?
+</h2>
 <div class="flex">
     <img class="titleImg" src="{base}/images/articletal1.png" alt="Hi there" />
 </div>

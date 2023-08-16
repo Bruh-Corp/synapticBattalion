@@ -21,11 +21,20 @@
 	</div> -->
 </div>
 <h2>About Us.</h2>
+
+<p>
+	Modern day journalism is in crisis. With the rapid proliferation of technology, access to anything at just your fingertips, media outlets are now craving clicks over quality. Each media outlet being  avaricious and lopsided partisans; biases plaguing the informative cyberspace space paving extreme ideas of any and all things. Egregious and rapacious journalists resorting to misinformation, incitement and propaganda mainly for the sake of attention and monetary benefit. 
+</p>
+
 <p>
 	Synaptic Battalion (SB.) is an attribute of Bruh Corp. dedicated to editorial and journalistic
 	content. Writers at Synaptic Battalion aim to provide the utmost quality of topical journalism SB.
 	is a publishing site for young and aspiring individuals accentuating and evincing their writing
 	skills.
+</p>
+
+<p>
+	At Synaptic Battalion, we aim to bring passionate writers and journalists to weave together a tapestry of royal editorials impervious of monetary incentive to create content, but rather pure passion and ambition. 
 </p>
 
 <h2>Members at SB.</h2>

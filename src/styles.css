@@ -100,7 +100,7 @@ h2 {
     text-shadow: black .001em .001em .4em;
     line-height: 75%;
     margin: 1em;
-    margin-bottom: 0;
+    margin-bottom: .2em;
     border-bottom: .05em white solid;
     padding-bottom: .1em;
     padding-left: .5em;

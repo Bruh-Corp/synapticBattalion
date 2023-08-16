@@ -14,7 +14,7 @@
 .titleImg {
     width: 85%;
     margin: auto;
-    margin-top: 5em;
+    margin-top: 1em;
 }
 
 .datebox {
@@ -63,6 +63,20 @@ a {
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    position: relative;
+    border-left: white .5em double;
+
+}
+
+.quotebox::after {
+    content: '“';
+    color: white;
+    font-size: 8em;
+    position: absolute;
+    right: 0;
+    top: -.7em;
+    transform: rotate(180deg);
+    font-family: 'Mona Sans';
 }
 
 .quote {
@@ -74,6 +88,7 @@ a {
 .quote h3 {
     margin: 0;
 }
+
 
 
 i {
