@@ -40,7 +40,7 @@
 <h2>Members at SB.</h2>
 
 <div class="content">
-	<div class="contentCard">
+	<div class="journalistCard">
 		<img src="{base}/images/cupboi.png" alt="Hi there" />
 		<h4>Talha "tal" Ijaz</h4>
 		<p class="visionary">"Quaint & Pedantic."</p>
@@ -50,7 +50,7 @@
 			<a href="mailto:muhammadtalhaijaz2005@gmail.com">Gmail</a>
 			<a href="https://github.com/Talha-Ijaz-Qureshi/">GitHub</a></div>
 		</div>
-	<div class="contentCard">
+	<div class="journalistCard">
 		<img src="{base}/images/apple.png" alt="Hi there" />
 		<h4>Abban Fahim</h4>
 		<p class="visionary">"Flimsy n' sturdy."</p>
@@ -60,7 +60,7 @@
 			<a href="mailto:contact@abbanf.tech">Gmail</a>
 			<a href="https://github.com/Abban-Fahim/">GitHub</a></div>
 		</div>
-	<div class="contentCard">
+	<div class="journalistCard">
 		<img src="{base}/images/fasam.jpg" alt="Hi there" />
 		<h4>Fasam Nadeem</h4>
 		<p>"Eutrophication of wisdom."</p>
@@ -69,7 +69,7 @@
 			<a href="mailto:fasam.nadeem63@gmail.com">Gmail</a>
 			<a href="https://github.com/Fasamm/">GitHub</a></div>
 		</div>
-		<div class="contentCard">
+		<div class="journalistCard">
 			<img src="{base}/images/assil.jpg" alt="Hi there" />
 			<h4>A++</h4>
 			<p>"Aura of ambitious indolence."</p>
@@ -78,7 +78,7 @@
 				<a href="mailto:synapticbattalion@gmail.com">Gmail</a>
 				<a href="https://github.com/TitanicCoder">GitHub</a></div>
 			</div>
-			<div class="contentCard">
+			<div class="journalistCard">
 				<img src="{base}/images/arisha.png" alt="Hi there" />
 				<h4>Arisha Ali</h4>
 				<p>"Hungry for drama."</p>
@@ -89,7 +89,7 @@
 					<a href="https://www.instagram.com/arisha_ali14/">Instagram</a>
 				</div>
 			</div>
-						<div class="contentCard">
+						<div class="journalistCard">
 				<img src="{base}/images/aayan.png" alt="Hi there" />
 				<h4>Aayan Moazzam</h4>
 				<p>"Soulful Seeker, Fearless Dreamer."</p>
@@ -99,7 +99,7 @@
 					<a href="https://www.instagram.com/4ayn.m/">Instagram</a>
 				</div>
 			</div>
-			<div class="contentCard">
+			<div class="journalistCard">
 				<img src="{base}/images/hafsa.jpeg" alt="Hi there" />
 				<h4>Hafsa Zahid</h4>
 				<p>“Curiosity is a skill.”</p>
@@ -109,7 +109,7 @@
 					<a href="https://www.instagram.com/_hafsaz18">Instagram</a>
 				</div>
 			</div>
-			<div class="contentCard">
+			<div class="journalistCard">
 				<img src="{base}/images/shaani.png" alt="Hi there" />
 				<h4>Syed Abbas</h4>
 				<p>"Medico ignited to write."</p>

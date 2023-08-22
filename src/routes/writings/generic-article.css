@@ -3,7 +3,10 @@
     margin: 1em;
     margin-right: auto;
     font-size: calc(1em + 4.2vw);
+    border-left: .1em solid #7af0ea;
+    background-image: linear-gradient(to right, #7af0ea5b, rgba(255, 255, 255, 0));
 }
+
 
 .flex {
     display: flex;
@@ -64,7 +67,8 @@ a {
     align-items: center;
     flex-direction: column;
     position: relative;
-    border-left: white .5em double;
+    border-left: .2em solid #7af0ea;
+    background-image: linear-gradient(to right, #7af0ea5b, rgba(255, 255, 255, 0));
 
 }
 

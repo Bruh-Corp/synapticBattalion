@@ -189,7 +189,7 @@ input {
 
 a:hover, .toggles a:hover {
     text-decoration-line: underline;
-    text-decoration-color: rgb(122, 240, 234);
+    text-decoration-color: #7af0ea;
 }
 
 .imgArray {
@@ -211,6 +211,7 @@ footer {
 .footerItem {
     margin: 1em;
 }
+
 
 .footerItem.one {
     margin-right: auto;
