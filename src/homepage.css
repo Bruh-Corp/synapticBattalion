@@ -98,10 +98,10 @@ body {
     margin: 2em;
 }
 
-.contentCard:hover {
+/* .contentCard:hover {
     border-bottom: .1em solid #7af0ea;
     background-image: linear-gradient(to top, #7af0ea5b, rgba(255, 255, 255, 0) 30%);
-}
+} */
 
 .contentCard h4 {
     margin: 0;
