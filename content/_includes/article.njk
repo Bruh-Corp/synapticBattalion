@@ -5,9 +5,9 @@
 </svelte:head>
 
 <script>
-	import '../../../../fonts.css';
-	import '../../../../styles.css';
-    import '../../generic-article.css'
+	import '../../../fonts.css';
+	import '../../../styles.css';
+    import '../../../generic-article.css'
 	import { base } from '$app/paths';
 </script>
 
@@ -29,5 +29,6 @@
     <img class="titleImg" src="{base}/{{ articleImg }}" alt="Hi there" />
 </div>
 
+<article>
 {{ content | safe }}
-
+</article>

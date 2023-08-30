@@ -1,6 +1,6 @@
 const fs = require('fs');
 
-const OUTPUT_PATH = 'src/routes/writings/trials';
+const OUTPUT_PATH = 'src/routes/writings';
 
 const articles = fs.readdirSync(OUTPUT_PATH);
 articles.forEach((article) => {
