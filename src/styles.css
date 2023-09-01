@@ -48,6 +48,10 @@ ul {
     list-style-type: decimal;
 }
 
+ul::marker:hover {
+    color: #7af0ea;
+}
+
 .date {
     font-family: 'Mona Sans';
     text-shadow: black .001em .001em .07em;
