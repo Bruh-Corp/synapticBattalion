@@ -1,0 +1,34 @@
+<svelte:head>
+	<title>{{ title | safe }} - SB.</title>
+    <link rel="icon" href="{base}/{{ articleImg }}" />
+    <meta name="description" content="{{ desc }}">
+</svelte:head>
+
+<script>
+	import '../../../fonts.css';
+	import '../../../styles.css';
+    import '../../../generic-article.css'
+	import { base } from '$app/paths';
+</script>
+
+<h1 class="articletitle">{{ title | safe }}</h1>
+
+<div class="datebox">
+    <h4>{{ pubDate }}</h4>
+    <div class="bosx">
+        <h4>By {{ author | safe }}</h4>
+        <img src="{base}/{{ authorImg }}" alt="Hi there" />
+    </div>
+</div>
+
+<h2>
+    {{ longTitle }}
+</h2>
+
+<div class="flex">
+    <img class="titleImg" src="{base}/{{ articleImg }}" alt="Hi there" />
+</div>
+
+<article>
+{{ content | safe }}
+</article>
