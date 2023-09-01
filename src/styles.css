@@ -48,8 +48,21 @@ ul {
     list-style-type: decimal;
 }
 
-ul::marker:hover {
+li {
+    font-weight: 300;
+}
+
+li a {
+    font-weight: initial;
+}
+
+li::marker {
+    font-weight: initial;
+}
+
+ul> li:hover::marker {
     color: #7af0ea;
+    font-weight: initial;
 }
 
 .date {
