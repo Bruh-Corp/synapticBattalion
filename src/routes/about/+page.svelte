@@ -119,4 +119,14 @@
 					<a href="https://www.instagram.com/syedabbas.x">Instagram</a>
 				</div>
 			</div>
+			<div class="journalistCard">
+				<img src="{base}/images/eman.jpg" alt="Hi there" />
+				<h4>Emaan Sheraz</h4>
+				<p>“Writing is therapy you don’t pay for.” </p>
+				<div class="date"><span>Journalist</span>Member</div>
+				<div class="date"><span>@</span>
+					<a href="mailto:emaansheraz@icloud.com">Gmail</a>
+					<a href="https://www.instagram.com/emaananannana/">Instagram</a>
+				</div>
+			</div>
 	</div>
