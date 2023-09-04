@@ -125,7 +125,7 @@
 				<p>“Writing is therapy you don’t pay for.” </p>
 				<div class="date"><span>Journalist</span>Member</div>
 				<div class="date"><span>@</span>
-					<a href="mailto:emaansheraz@icloud.com">Gmail</a>
+					<a href="mailto:emaansheraz@icloud.com">Email</a>
 					<a href="https://www.instagram.com/emaananannana/">Instagram</a>
 				</div>
 			</div>
