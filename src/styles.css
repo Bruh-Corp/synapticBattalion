@@ -191,7 +191,7 @@ input {
 .navItem {
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: flex-start;
 }
 
 .imgLogo {
@@ -200,8 +200,32 @@ input {
 
 .navbar a {
     text-decoration-line: none;
-    margin: .5em;
-    margin-left: 0;
+}
+
+.ranBox {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    a {
+        margin-top: -1.3em;
+        backdrop-filter: blur(1em);
+        width: 4em;
+    }
+
+
+    h3 {
+        margin: 0;
+        padding: .5em;
+        padding-top: 0;
+    }
+
+    img {
+        margin: .5em;
+        margin-bottom: 0;
+    }
 }
 
 a:hover, .toggles a:hover {
@@ -211,8 +235,8 @@ a:hover, .toggles a:hover {
 
 .imgArray {
     margin-right: 0;
-    height: 3em;
-    width: 3em;
+    height: 4em;
+    width: 4em;
 }
 
 footer {
@@ -300,12 +324,12 @@ footer h3 {
 @media only screen 
   and (max-device-width: 767px) {
     .navItem a {
-        font-size: .65em;
+        font-size: .63em
     }
 
     .imgArray {
-        width: 1.4em;
-        height: 1.4em;
+        width: 2.5em;
+        height: 2.5em;
     }
 
 }
@@ -319,12 +343,4 @@ footer h3 {
         font-size: 2.3em;
     }
 
-    .navbar a {
-        font-size: .9em;
-    }
-
-    .imgArray {
-        width: 2.5em;
-        height: 2.5em;
-    }
 }
