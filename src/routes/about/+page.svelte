@@ -129,4 +129,14 @@
 					<a href="https://www.instagram.com/emaananannana/">Instagram</a>
 				</div>
 			</div>
+			<div class="journalistCard">
+				<img src="{base}/images/hooriya.jpg" alt="Hi there" />
+				<h4>Hooriya Usman</h4>
+				<p>"Keen for unfolding mysteries and conspiracies.” </p>
+				<div class="date"><span>Journalist</span>Member</div>
+				<div class="date"><span>@</span>
+					<a href="mailto:hooriyausman2007@gmail.com">Email</a>
+					<a href="https://www.instagram.com/hooriyaaa_27/">Instagram</a>
+				</div>
+			</div>
 	</div>
