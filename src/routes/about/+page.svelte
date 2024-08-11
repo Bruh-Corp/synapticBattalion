@@ -78,7 +78,7 @@
 				<a href="mailto:synapticbattalion@gmail.com">Gmail</a>
 				<a href="https://github.com/TitanicCoder">GitHub</a></div>
 			</div>
-			<div class="journalistCard">
+			<!-- <div class="journalistCard">
 				<img src="{base}/images/arisha.png" alt="Hi there" />
 				<h4>Arisha Ali</h4>
 				<p>"Hungry for drama."</p>
@@ -88,7 +88,7 @@
 					<a href="mailto:raoarisha1413@gmail.com">Gmail</a>
 					<a href="https://www.instagram.com/arisha_ali14/">Instagram</a>
 				</div>
-			</div>
+			</div> -->
 						<div class="journalistCard">
 				<img src="{base}/images/aayan.png" alt="Hi there" />
 				<h4>Aayan Moazzam</h4>
@@ -119,7 +119,7 @@
 					<a href="https://www.instagram.com/syedabbas.x">Instagram</a>
 				</div>
 			</div>
-			<div class="journalistCard">
+			<!-- <div class="journalistCard">
 				<img src="{base}/images/eman.jpg" alt="Hi there" />
 				<h4>Emaan Sheraz</h4>
 				<p>“Writing is therapy you don’t pay for.” </p>
@@ -128,7 +128,7 @@
 					<a href="mailto:emaansheraz@icloud.com">Email</a>
 					<a href="https://www.instagram.com/emaananannana/">Instagram</a>
 				</div>
-			</div>
+			</div> -->
 			<div class="journalistCard">
 				<img src="{base}/images/hooriya.jpg" alt="Hi there" />
 				<h4>Hooriya Usman</h4>
