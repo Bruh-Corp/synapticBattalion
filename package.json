@@ -9,13 +9,13 @@
 		"preview": "vite preview",
 		"check": "svelte-kit sync && svelte-check --tsconfig ./jsconfig.json",
 		"check:watch": "svelte-kit sync && svelte-check --tsconfig ./jsconfig.json --watch",
-		"test": "npm run test:integration && npm run test:unit",
+		"test": "pnpm run test:integration && pnpm run test:unit",
 		"lint": "prettier --plugin-search-dir . --check . && eslint .",
 		"format": "prettier --plugin-search-dir . --write .",
 		"test:integration": "playwright test",
 		"test:unit": "vitest",
-		"predeploy": "npm run .svelte-kit",
-		"deploy": "gh-pages -d .svelte-kit"
+		"predeploy": "pnpm run build",
+		"deploy": "gh-pages -d build"
 	},
 	"devDependencies": {
 		"@playwright/test": "^1.28.1",
