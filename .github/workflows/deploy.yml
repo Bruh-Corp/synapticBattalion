@@ -12,23 +12,18 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Install pnpm
-        uses: pnpm/action-setup@v4
-        with:
-          version: 8
-
       - name: Install Node.js
         uses: actions/setup-node@v4
         with:
           node-version: 20.16.0
-          cache: pnpm
+          cache: npm
 
       - name: Install dependencies
-        run: pnpm install
+        run: npm install
 
       - name: build 
         run: |
-          pnpm run build
+          npm run build
           touch build/.nojekyll
 
       - name: Upload Artifacts

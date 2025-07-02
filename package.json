@@ -14,8 +14,8 @@
 		"format": "prettier --plugin-search-dir . --write .",
 		"test:integration": "playwright test",
 		"test:unit": "vitest",
-		"predeploy": "npm run .svelte-kit",
-		"deploy": "gh-pages -d .svelte-kit"
+		"predeploy": "npm run build",
+		"deploy": "gh-pages -d build"
 	},
 	"devDependencies": {
 		"@playwright/test": "^1.28.1",
